@@ -4,8 +4,8 @@ go 1.21
 
 require (
 	github.com/AlecAivazis/survey/v2 v2.3.2
-	github.com/aws/aws-sdk-go v1.53.19
-	github.com/briandowns/spinner v1.23.0
+	github.com/aws/aws-sdk-go v1.54.6
+	github.com/briandowns/spinner v1.23.1
 	github.com/dustin/go-humanize v1.0.1
 	github.com/fatih/color v1.17.0
 	github.com/fatih/structs v1.1.0
@@ -21,7 +21,7 @@ require (
 	github.com/onsi/gomega v1.33.1
 	github.com/robfig/cron/v3 v3.0.1
 	github.com/spf13/afero v1.11.0
-	github.com/spf13/cobra v1.8.0
+	github.com/spf13/cobra v1.8.1
 	github.com/spf13/pflag v1.0.5
 	github.com/stretchr/testify v1.9.0
 	github.com/xlab/treeprint v1.2.0
